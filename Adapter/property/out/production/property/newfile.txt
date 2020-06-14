@@ -1,6 +1,0 @@
-#written by FileProperties
-#Sat Jun 13 23:19:25 PDT 2020
-month=4
-year=2004
-yaer=1999
-day=21
